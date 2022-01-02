@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing projects that implement code in day-to-day life problems :)
 - 🌱 I’m currently learning anything I can about web development from both back and front end perspectives.
 - 💞️ I’m looking to collaborate on projects that can really help solving important problems in our society.
-- 📫 How to reach me: <\n>
+- 📫 How to reach me: <br>
   Email: lucastefantamasdev@gmail.com
   Facebook: https://www.facebook.com/lucastefan.tamas
   Linkedin: https://www.linkedin.com/in/luca-%C8%99tefan-tama%C8%99-a40282229/
