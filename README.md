@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning anything I can about web development from both back and front end perspectives.
 - 💞️ I’m looking to collaborate on projects that can really help solving important problems in our society.
 - 📫 How to reach me: 
-  Email: lucastefantamas@gmail.com
+  Email: lucastefantamasdev@gmail.com
   Facebook: https://www.facebook.com/lucastefan.tamas
-  Linkedin: https://www.linkedin.com/in/tamas-luca-stefan-4b45311a2
+  Linkedin: https://www.linkedin.com/in/luca-%C8%99tefan-tama%C8%99-a40282229/
   Instagram: https://www.instagram.com/lucastefantamas/
 
 <!---
