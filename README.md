@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on projects that can really help solving important problems in our society.
 - 📫 How to reach me: <br>
   Email: lucastefantamasdev@gmail.com<br>
-  Facebook: https://www.facebook.com/lucastefan.tamas<br>
   Linkedin: https://www.linkedin.com/in/luca-%C8%99tefan-tama%C8%99-a40282229/<br>
+  Website: https://lucastefan112.github.io/LucaStefan112/<br>
+  Facebook: https://www.facebook.com/lucastefan.tamas<br>
   Instagram: https://www.instagram.com/lucastefantamas/
 
 <!---
